@@ -22,3 +22,7 @@ Get-PnpDevice -PresentOnly
 systeminfo  ;  msinfo32
 ```
 ## S.O. Linux con bash
+### Ver características de la CPU
+```
+lscpu
+```
