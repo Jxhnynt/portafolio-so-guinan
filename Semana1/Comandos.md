@@ -1,11 +1,11 @@
 # Listado de Comandos básicos
-## S.O. Windows con PoweShell
+## S.O. Windows con PowerShell
 
 ### Ver características de la CPU
 ```
 Get-CimInstance Win32_Processor
 ```
-### Ver característiccas de la memoria RAM
+### Ver características de la Memoria RAM
 ```
 Get-CimInstance Win32_PhysicalMemory
 ```
